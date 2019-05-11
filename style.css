@@ -1,0 +1,86 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+nav{
+	width: 100%;
+	background: #202c45;
+	padding: 0 50px;
+	box-sizing: border-box;
+}
+ 
+nav h1{
+	margin: 0;
+	padding: 15px 20px;
+}
+
+nav h1 a{
+	color: #fff;
+	text-decoration: none;
+	font-family: Snell Roundhand, cursive;
+	font-size: 30px;
+	text-shadow: 2px 2px 8px;
+}
+
+nav ul{
+	margin: 0;
+	padding: 0;
+	float: right;
+	font-family:  Snell Roundhand, cursive;
+}
+
+nav ul li{
+	list-style: none;
+	display: inline-block;
+	padding: 20px 30px;
+	transition: .7s;
+}
+
+nav ul li:hover{
+	background: #4682B4;
+}
+
+nav ul li a{
+	color: #fff;
+	text-decoration: none;
+}
+
+h2{
+	color: yellow;
+	text-align: center;
+	font-size: 35px;
+	font-family:  Snell Roundhand, cursive;
+}
+
+h3{
+	color: yellow;
+	text-align: center;
+	font-size: 20px;
+	text-shadow: 2px 2px 8px;
+	font-family:  Snell Roundhand, cursive;
+}
+
+#principal{
+	background-image: url(baba.jpeg);
+	min-height: 400px;
+	padding: 40px 0 0 0;	
+}
+
+footer{
+	text-align: center;
+	background: #F2F2F2;
+	padding: 10px 0px 0px 10px;
+	height: 50px;
+	clear: both;
+	border-top: 1px solid;
+	color: blue;
+}
+
+
+
+
+
+
+
